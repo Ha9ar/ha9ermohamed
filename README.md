@@ -1,5 +1,9 @@
 ## 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/main/light.svg"> <img alt="YOUR NAME" src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/ light.svg"> </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img src="./light.svg" alt="GitHub Profile Banner">
+</picture>
 <!--
 **ha9ermohamed/ha9ermohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
